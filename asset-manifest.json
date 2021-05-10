@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/webmob/static/css/main.1635e87c.chunk.css",
+    "main.js": "/webmob/static/js/main.dd4334e6.chunk.js",
+    "main.js.map": "/webmob/static/js/main.dd4334e6.chunk.js.map",
+    "runtime-main.js": "/webmob/static/js/runtime-main.5d38a4b8.js",
+    "runtime-main.js.map": "/webmob/static/js/runtime-main.5d38a4b8.js.map",
+    "static/js/2.9f830ac9.chunk.js": "/webmob/static/js/2.9f830ac9.chunk.js",
+    "static/js/2.9f830ac9.chunk.js.map": "/webmob/static/js/2.9f830ac9.chunk.js.map",
+    "static/js/3.f82ff68d.chunk.js": "/webmob/static/js/3.f82ff68d.chunk.js",
+    "static/js/3.f82ff68d.chunk.js.map": "/webmob/static/js/3.f82ff68d.chunk.js.map",
+    "index.html": "/webmob/index.html",
+    "static/css/main.1635e87c.chunk.css.map": "/webmob/static/css/main.1635e87c.chunk.css.map",
+    "static/js/2.9f830ac9.chunk.js.LICENSE.txt": "/webmob/static/js/2.9f830ac9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d38a4b8.js",
+    "static/js/2.9f830ac9.chunk.js",
+    "static/css/main.1635e87c.chunk.css",
+    "static/js/main.dd4334e6.chunk.js"
+  ]
+}
